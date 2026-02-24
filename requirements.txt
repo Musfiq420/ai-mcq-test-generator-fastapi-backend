@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+pinecone
+langchain-text-splitters
+pymupdf
+pillow
+pytesseract
+python-multipart
+dotenv
+langchain
+langchain-openai
+langchain-pinecone
+langchain-core
